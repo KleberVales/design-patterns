@@ -6,3 +6,4 @@
 - Vantagens e desvantagens
 - Overengineering
 - Composition over Inheritance
+- Programar para interfaces, não implementações
