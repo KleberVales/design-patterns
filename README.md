@@ -48,6 +48,7 @@
 ## Padrões Comportamentais
 
 - Strategy
+- Observer
 
 
 
