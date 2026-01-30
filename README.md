@@ -23,3 +23,12 @@
 - Abstract Factory
 - Builder
 - Prototype
+
+### Conceitos ligados
+
+- Inversão de Controle (IoC)
+
+
+
+
+
