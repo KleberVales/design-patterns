@@ -36,6 +36,7 @@
 - Decorator
 - Facade
 - Composite
+- Proxy
 
 
 
