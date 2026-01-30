@@ -63,6 +63,7 @@
    - Strategy
    - State
    - Factory
+   - Decorator
 
 
 
