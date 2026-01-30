@@ -33,6 +33,7 @@
 ## Padrões Estruturais
 
 - Adapter
+- Decorator
 
 
 
