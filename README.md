@@ -49,6 +49,7 @@
 
 - Strategy
 - Observer
+- Command
 
 
 
