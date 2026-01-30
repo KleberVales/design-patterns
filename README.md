@@ -55,6 +55,8 @@
 
 ## Refatoração usando Design Patterns
 
+- Identificar smells:
+
 
 
 
