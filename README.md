@@ -21,3 +21,4 @@
 - Singleton
 - Factory Method
 - Abstract Factory
+- Builder
