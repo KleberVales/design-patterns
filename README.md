@@ -57,6 +57,7 @@
 
 - Identificar smells:
    - if/else gigante
+   - switch por tipo
 
 
 
