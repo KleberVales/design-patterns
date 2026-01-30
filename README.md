@@ -17,3 +17,5 @@
 - Problemas recorrentes em sistemas OO
 
 ## Padrões Criacionais
+
+- Singleton
