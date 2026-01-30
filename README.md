@@ -1,6 +1,6 @@
 # design-patterns
 
-## Fundamentos
+## [Fundamentos](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks)
 - O que são Design Patterns
 - Quando usar × quando NÃO usar
 - Vantagens e desvantagens
