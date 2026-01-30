@@ -56,6 +56,7 @@
 ## Refatoração usando Design Patterns
 
 - Identificar smells:
+   - if/else gigante
 
 
 
