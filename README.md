@@ -59,6 +59,7 @@
    - if/else gigante
    - switch por tipo
    - God Class
+- Refatorar para:
 
 
 
