@@ -32,6 +32,8 @@
 
 ## Padrões Estruturais
 
+- Adapter
+
 
 
 
