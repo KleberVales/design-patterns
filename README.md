@@ -43,6 +43,7 @@
 - Encapsulamento
 - Composição
 - Redução de acoplamento
+- Wrappers
 
 
 
