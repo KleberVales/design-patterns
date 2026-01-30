@@ -38,6 +38,10 @@
 - Composite
 - Proxy
 
+**Conceitos ligados**
+
+- Encapsulamento
+
 
 
 
