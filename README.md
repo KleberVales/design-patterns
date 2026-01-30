@@ -45,6 +45,8 @@
 - Redução de acoplamento
 - Wrappers
 
+## Padrões Comportamentais
+
 
 
 
