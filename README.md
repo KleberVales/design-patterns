@@ -62,6 +62,7 @@
 - Refatorar para:
    - Strategy
    - State
+   - Factory
 
 
 
