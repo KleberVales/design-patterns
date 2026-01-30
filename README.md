@@ -41,6 +41,7 @@
 **Conceitos ligados**
 
 - Encapsulamento
+- Composição
 
 
 
