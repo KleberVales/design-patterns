@@ -47,6 +47,8 @@
 
 ## Padrões Comportamentais
 
+- Strategy
+
 
 
 
