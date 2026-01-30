@@ -12,3 +12,4 @@
 
 - Padrões Criacionais
 - Padrões Estruturais
+- Padrões Comportamentais
