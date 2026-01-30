@@ -61,6 +61,7 @@
    - God Class
 - Refatorar para:
    - Strategy
+   - State
 
 
 
