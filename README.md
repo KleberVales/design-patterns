@@ -5,3 +5,4 @@
 - Quando usar × quando NÃO usar
 - Vantagens e desvantagens
 - Overengineering
+- Composition over Inheritance
