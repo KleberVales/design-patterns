@@ -50,6 +50,7 @@
 - Strategy
 - Observer
 - Command
+- Template Method
 
 
 
