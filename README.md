@@ -28,6 +28,7 @@
 
 - Inversão de Controle (IoC)
 - Dependency Injection (DI)
+- Ciclo de vida de objetos
 
 
 
