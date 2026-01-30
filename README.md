@@ -60,6 +60,7 @@
    - switch por tipo
    - God Class
 - Refatorar para:
+   - Strategy
 
 
 
