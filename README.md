@@ -53,6 +53,8 @@
 - Template Method
 - State
 
+## Refatoração usando Design Patterns
+
 
 
 
