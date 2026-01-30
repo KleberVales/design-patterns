@@ -13,3 +13,4 @@
 - Padrões Criacionais
 - Padrões Estruturais
 - Padrões Comportamentais
+- GoF (Gang of Four)
