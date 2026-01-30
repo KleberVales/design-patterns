@@ -24,7 +24,7 @@
 - Builder
 - Prototype
 
-### Conceitos ligados
+**Conceitos ligados**
 
 - Inversão de Controle (IoC)
 - Dependency Injection (DI)
