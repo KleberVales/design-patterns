@@ -42,6 +42,7 @@
 
 - Encapsulamento
 - Composição
+- Redução de acoplamento
 
 
 
