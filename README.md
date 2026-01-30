@@ -51,6 +51,7 @@
 - Observer
 - Command
 - Template Method
+- State
 
 
 
