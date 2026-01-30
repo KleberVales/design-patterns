@@ -7,3 +7,5 @@
 - Overengineering
 - Composition over Inheritance
 - Programar para interfaces, não implementações
+
+## Classificação dos Design Patterns
