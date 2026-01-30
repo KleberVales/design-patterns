@@ -19,3 +19,4 @@
 ## Padrões Criacionais
 
 - Singleton
+- Factory Method
