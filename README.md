@@ -27,6 +27,7 @@
 ### Conceitos ligados
 
 - Inversão de Controle (IoC)
+- Dependency Injection (DI)
 
 
 
