@@ -11,3 +11,4 @@
 ## Classificação dos Design Patterns
 
 - Padrões Criacionais
+- Padrões Estruturais
