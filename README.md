@@ -35,6 +35,7 @@
 - Adapter
 - Decorator
 - Facade
+- Composite
 
 
 
