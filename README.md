@@ -53,7 +53,7 @@
 - Template Method
 - State
 
-## Refatoração usando Design Patterns
+## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
 
 - Identificar smells:
    - if/else gigante
