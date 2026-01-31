@@ -16,7 +16,7 @@
 - GoF (Gang of Four)
 - Problemas recorrentes em sistemas OO
 
-## Padrões Criacionais
+## [Padrões Criacionais](https://github.com/KleberVales/design-patterns/wiki/03-Padroes-Criacionais)
 
 - Singleton
 - Factory Method
