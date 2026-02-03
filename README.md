@@ -51,8 +51,8 @@
 
 - Strategy
 - Observer
-- Command
 - Template Method
+- Command
 - State
 
 ## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
