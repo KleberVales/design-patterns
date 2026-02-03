@@ -36,6 +36,7 @@
 - Bridge
 - Decorator
 - Facade
+- Flyweight
 - Composite
 - Proxy
 
