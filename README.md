@@ -74,6 +74,10 @@
    - Decorator
 - Substituir herança por composição
 
+---
+
+## ✉️ Contact
+
 
 
 
