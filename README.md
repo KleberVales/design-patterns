@@ -33,6 +33,7 @@
 ## [Padrões Estruturais](https://github.com/KleberVales/design-patterns/wiki/04-Padroes-Estruturais)
 
 - Adapter
+- Bridge
 - Decorator
 - Facade
 - Composite
