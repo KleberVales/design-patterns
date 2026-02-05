@@ -34,11 +34,11 @@
 
 - Adapter
 - Bridge
+- Composite
 - Decorator
 - Facade
-- Flyweight
-- Composite
 - Proxy
+- Flyweight
 
 **Conceitos ligados**
 
