@@ -53,11 +53,11 @@
 - Template Method
 - State
 - Observer
+- Mediator
 - Command
 - Chain of Responsibility
-- Mediator
-- Memento
 - Iterator
+- Memento
 - Interpreter
 - Visitor
 
