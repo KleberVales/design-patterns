@@ -50,10 +50,10 @@
 ## [Padrões Comportamentais](https://github.com/KleberVales/design-patterns/wiki/05-Padroes-Comportamentais)
 
 - Strategy
-- Observer
 - Template Method
-- Command
 - State
+- Observer
+- Command
 - Chain of Responsibility
 - Mediator
 - Memento
