@@ -74,9 +74,3 @@
    - Decorator
 - Substituir herança por composição
 
----
-
-
-Email: klebervales.dev@gmail.com
-
-
