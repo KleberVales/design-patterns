@@ -50,16 +50,16 @@
 ## [Padrões Comportamentais](https://github.com/KleberVales/design-patterns/wiki/05-Padroes-Comportamentais)
 
 - Strategy
-- Template Method
 - State
 - Observer
-- Mediator
 - Command
-- Chain of Responsibility
-- Iterator
+- Mediator
 - Memento
-- Interpreter
+- Iterator
+- Chain of Responsibility
+- Template Method
 - Visitor
+- Interpreter
 
 ## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
 
