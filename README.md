@@ -19,9 +19,9 @@
 ## [Padrões Criacionais](https://github.com/KleberVales/design-patterns/wiki/03-Padroes-Criacionais)
 
 - Singleton
-- Factory Method
-- Abstract Factory
-- Builder
+- Factory Method     *****
+- Abstract Factory   *****
+- Builder   *****
 - Prototype
 
 **Conceitos ligados**
@@ -32,10 +32,10 @@
 
 ## [Padrões Estruturais](https://github.com/KleberVales/design-patterns/wiki/04-Padroes-Estruturais)
 
-- Adapter
+- Adapter   *******
 - Bridge
 - Composite
-- Decorator
+- Decorator ******
 - Facade
 - Proxy
 - Flyweight
@@ -49,9 +49,9 @@
 
 ## [Padrões Comportamentais](https://github.com/KleberVales/design-patterns/wiki/05-Padroes-Comportamentais)
 
-- Strategy
+- Strategy   *********
 - State
-- Observer
+- Observer   *********
 - Command
 - Mediator
 - Memento
