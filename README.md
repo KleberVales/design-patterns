@@ -1,7 +1,7 @@
 # design-patterns
 
 ## 1. Fundamentos
-- O que são Design Patterns
+### 1.1 O que são Design Patterns
 - Quando usar × quando NÃO usar
 - Vantagens e desvantagens
 - Overengineering
