@@ -36,7 +36,7 @@
 ### 4.2 Bridge
 ### 4.3 Composite
 ### 4.4 Decorator ******
-- Facade
+### 4.5 Facade
 - Proxy
 - Flyweight
 
