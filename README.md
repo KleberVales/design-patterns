@@ -35,7 +35,7 @@
 ### 4.1 Adapter   *******
 ### 4.2 Bridge
 ### 4.3 Composite
-- Decorator ******
+### 4.4 Decorator ******
 - Facade
 - Proxy
 - Flyweight
