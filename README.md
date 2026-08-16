@@ -53,7 +53,7 @@
 ### 5.2 State
 ### 5.3 Observer   *********
 ### 5.4 Command
-- Mediator
+### 5.5 Mediator
 - Memento
 - Iterator
 - Chain of Responsibility
