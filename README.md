@@ -20,7 +20,7 @@
 
 ### 3.1 Singleton
 ### 3.2 Factory Method     *****
-- Abstract Factory   *****
+### 3.3 Abstract Factory   *****
 - Builder   *****
 - Prototype
 
