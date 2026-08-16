@@ -2,7 +2,7 @@
 
 ## 1. Fundamentos
 ### 1.1 O que são Design Patterns
-- Quando usar × quando NÃO usar
+### 1.2 Quando usar × quando NÃO usar
 - Vantagens e desvantagens
 - Overengineering
 - Composition over Inheritance
