@@ -11,7 +11,7 @@
 ## 2. Classificação dos Design Patterns
 
 ### 2.1 Padrões Criacionais
-- Padrões Estruturais
+### 2.2 Padrões Estruturais
 - Padrões Comportamentais
 - GoF (Gang of Four)
 - Problemas recorrentes em sistemas OO
