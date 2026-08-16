@@ -10,7 +10,7 @@
 
 ## 2. Classificação dos Design Patterns
 
-- Padrões Criacionais
+### 2.1 Padrões Criacionais
 - Padrões Estruturais
 - Padrões Comportamentais
 - GoF (Gang of Four)
@@ -18,7 +18,7 @@
 
 ## [Padrões Criacionais](https://github.com/KleberVales/design-patterns/wiki/03-Padroes-Criacionais)
 
-- Singleton
+Singleton
 - Factory Method     *****
 - Abstract Factory   *****
 - Builder   *****
