@@ -54,7 +54,7 @@
 ### 5.3 Observer   *********
 ### 5.4 Command
 ### 5.5 Mediator
-- Memento
+### 5.6 Memento
 - Iterator
 - Chain of Responsibility
 - Template Method
