@@ -19,7 +19,7 @@
 ## 3. Padrões Criacionais
 
 ### 3.1 Singleton
-- Factory Method     *****
+### 3.2 Factory Method     *****
 - Abstract Factory   *****
 - Builder   *****
 - Prototype
