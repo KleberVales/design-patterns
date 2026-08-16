@@ -1,6 +1,6 @@
 # design-patterns
 
-## [Fundamentos](https://github.com/KleberVales/design-patterns/wiki/01-Fundamentos)
+## 1. Fundamentos
 - O que são Design Patterns
 - Quando usar × quando NÃO usar
 - Vantagens e desvantagens
