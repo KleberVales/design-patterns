@@ -21,7 +21,7 @@
 ### 3.1 Singleton
 ### 3.2 Factory Method     *****
 ### 3.3 Abstract Factory   *****
-- Builder   *****
+### 3.4 Builder   *****
 - Prototype
 
 **Conceitos ligados**
