@@ -8,7 +8,7 @@
 ### 1.5 Composition over Inheritance
 ### 1.6 Programar para interfaces, não implementações
 
-## [Classificação dos Design Patterns](https://github.com/KleberVales/design-patterns/wiki/02-Classifica%C3%A7%C3%A3o-dos-Design-Patterns)
+## 2. Classificação dos Design Patterns
 
 - Padrões Criacionais
 - Padrões Estruturais
