@@ -56,7 +56,7 @@
 ### 5.5 Mediator
 ### 5.6 Memento
 ### 5.7 Iterator
-- Chain of Responsibility
+### 5.8 Chain of Responsibility
 - Template Method
 - Visitor
 - Interpreter
