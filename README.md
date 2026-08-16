@@ -32,7 +32,7 @@
 
 ## 4. Padrões Estruturais
 
-- Adapter   *******
+### 4.1 Adapter   *******
 - Bridge
 - Composite
 - Decorator ******
