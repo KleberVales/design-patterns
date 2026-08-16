@@ -51,7 +51,7 @@
 
 ### 5.1 Strategy   *********
 ### 5.2 State
-- Observer   *********
+### 5.3 Observer   *********
 - Command
 - Mediator
 - Memento
