@@ -22,7 +22,7 @@
 ### 3.2 Factory Method     *****
 ### 3.3 Abstract Factory   *****
 ### 3.4 Builder   *****
-- Prototype
+### 3.5 Prototype
 
 **Conceitos ligados**
 
