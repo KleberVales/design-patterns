@@ -12,7 +12,7 @@
 
 ### 2.1 Padrões Criacionais
 ### 2.2 Padrões Estruturais
-- Padrões Comportamentais
+### 2.3 Padrões Comportamentais
 - GoF (Gang of Four)
 - Problemas recorrentes em sistemas OO
 
