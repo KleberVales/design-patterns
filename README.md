@@ -30,7 +30,7 @@
 - Dependency Injection (DI)
 - Ciclo de vida de objetos
 
-## [Padrões Estruturais](https://github.com/KleberVales/design-patterns/wiki/04-Padroes-Estruturais)
+## 4. Padrões Estruturais
 
 - Adapter   *******
 - Bridge
