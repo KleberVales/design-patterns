@@ -38,7 +38,7 @@
 ### 4.4 Decorator ******
 ### 4.5 Facade
 ### 4.6 Proxy
-- Flyweight
+### 4.7 Flyweight
 
 **Conceitos ligados**
 
