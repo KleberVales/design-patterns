@@ -61,7 +61,7 @@
 ### 5.10 Visitor
 ### 5.11 Interpreter
 
-## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
+## 6. Refatoração usando Design Patterns
 
 - Identificar smells:
    - if/else gigante
