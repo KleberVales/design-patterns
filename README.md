@@ -52,7 +52,7 @@
 ### 5.1 Strategy   *********
 ### 5.2 State
 ### 5.3 Observer   *********
-- Command
+### 5.4 Command
 - Mediator
 - Memento
 - Iterator
