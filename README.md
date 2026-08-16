@@ -72,5 +72,5 @@
    - State
    - Factory
    - Decorator
-- Substituir herança por composição
+### 6.3 Substituir herança por composição
 
