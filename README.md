@@ -67,7 +67,7 @@
    - if/else gigante
    - switch por tipo
    - God Class
-- Refatorar para:
+### 6.2 Refatorar para:
    - Strategy
    - State
    - Factory
