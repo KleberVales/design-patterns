@@ -34,7 +34,7 @@
 
 ### 4.1 Adapter   *******
 ### 4.2 Bridge
-- Composite
+### 4.3 Composite
 - Decorator ******
 - Facade
 - Proxy
