@@ -63,7 +63,7 @@
 
 ## 6. Refatoração usando Design Patterns
 
-- Identificar smells:
+### 6.1 Identificar smells:
    - if/else gigante
    - switch por tipo
    - God Class
