@@ -49,7 +49,7 @@
 
 ## 5. Padrões Comportamentais
 
-- Strategy   *********
+### 5.1 Strategy   *********
 - State
 - Observer   *********
 - Command
