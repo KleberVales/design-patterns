@@ -58,7 +58,7 @@
 ### 5.7 Iterator
 ### 5.8 Chain of Responsibility
 ### 5.9 Template Method
-- Visitor
+### 5.10 Visitor
 - Interpreter
 
 ## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
