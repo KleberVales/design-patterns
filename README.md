@@ -5,7 +5,7 @@
 ### 1.2 Quando usar × quando NÃO usar
 ### 1.3 Vantagens e desvantagens
 ### 1.4 Overengineering
-- Composition over Inheritance
+### 1.5 Composition over Inheritance
 - Programar para interfaces, não implementações
 
 ## [Classificação dos Design Patterns](https://github.com/KleberVales/design-patterns/wiki/02-Classifica%C3%A7%C3%A3o-dos-Design-Patterns)
