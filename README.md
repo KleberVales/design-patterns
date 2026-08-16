@@ -57,7 +57,7 @@
 ### 5.6 Memento
 ### 5.7 Iterator
 ### 5.8 Chain of Responsibility
-- Template Method
+### 5.9 Template Method
 - Visitor
 - Interpreter
 
