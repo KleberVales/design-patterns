@@ -59,7 +59,7 @@
 ### 5.8 Chain of Responsibility
 ### 5.9 Template Method
 ### 5.10 Visitor
-- Interpreter
+### 5.11 Interpreter
 
 ## [Refatoração usando Design Patterns](https://github.com/KleberVales/design-patterns/wiki/06-Refatoracao-usando-Design-Patterns)
 
