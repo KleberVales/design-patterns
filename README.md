@@ -50,7 +50,7 @@
 ## 5. Padrões Comportamentais
 
 ### 5.1 Strategy   *********
-- State
+### 5.2 State
 - Observer   *********
 - Command
 - Mediator
